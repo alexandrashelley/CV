@@ -69,7 +69,7 @@ For more, please see my [GitHub repo list](https://github.com/alexandrashelley?t
 - 
 - 
 
-## <a name="education">Things I've stuffed in my head 🎓</a>
+## <a name="education">Things I've stuffed in my head (education) 🎓</a>
 
 **University of Sussex** (2014 - 2017)  
 *English Language and Linguistics*

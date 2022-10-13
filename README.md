@@ -25,10 +25,11 @@ Hi!
 
 ## <a name="projects">My workshed (projects) 👩🏻‍💻</a>
 
-| Project (Repo)   | Description | Technologies |
-|---        |---          |---   |---           |
-| [Travel-lite](https://github.com/Curtis-Turk/Travel-lite) | Plan your adventure see more of the world, save the planet...🌱 A web app to encourage eco-conscious adventurers to consider greener transport when travelling. | https://wepick.herokuapp.com/ | JavaScript, React, Tailwind, Cypress, Google API, Travel Advisor API |
-| [Acebook](https://github.com/naomischlosser/acebook-node-slugs) | A social media app with a spookily similar name to that other big one... | Node, Express, MongoDB, Bootstrap, Cypress, Jest |
+| Project (Repo)                | Description                  | Tech Stack / Tools             |
+| ----------------------------- | ---------------------------- | ------------------------------ |
+| [Travel-Lite](https://github.com/Curtis-Turk/Travel-lite) | Plan your adventure see more of the world, save the planet. A web app to encourage eco-conscious adventurers to make sustainable travel decisions | React, Tailwind, Cypress, Google API, Travel advisor API |
+| [Slugs-AceBook](https://github.com/naomischlosser/acebook-node-slugs)| A social media app with a weirdly familiar name... | Node, Express, MongoDB, Bootstrap, Cypress, Jest |
+| [Makers BnB](https://github.com/Curtis-Turk/makersbnb-ruby-seed) | An AirBnB-inspired web app. | Ruby, Sinatra, Rack, HTML, CSS, PreSql, Rspec |  
 
 For more, please see my [GitHub repo list](https://github.com/alexandrashelley?tab=repositories).
 

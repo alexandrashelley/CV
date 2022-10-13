@@ -8,7 +8,7 @@
 # Alexandra Shelley  #
 (alexbshelley@gmail.com)
 
-[About me](#about_me) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [education](#education) | [Interests](#interests) 
+[About me](#about_me) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) 
 
 </div>
 
@@ -16,14 +16,14 @@
 
 Hi! 
 
-## <a name="tech-stack">Tech stack 🤖</a> 
+## <a name="tech-stack">Tech and tools I've used 🤖</a> 
 - Git, GitHub
 - HTML, CSS (Tailwind)
 - JavaScript (React, Node.js, Express, MongoDB, Jest)
 - Ruby (Sinatra, RSpec)
 - SQL (PostgreSQL, TablePlus)
 
-## <a name="projects">My workshed (projects) 👩🏻‍💻</a>
+## <a name="projects">Things I've made (projects) 👩🏻‍💻</a>
 
 | Project (Repo)                | Description                  | Time taken                     | Tech Stack / Tools             |
 | ----------------------------- | ---------------------------- | ------------------------------ | ------------------------------ |
@@ -33,7 +33,7 @@ Hi!
 
 For more, please see my [GitHub repo list](https://github.com/alexandrashelley?tab=repositories).
 
-## <a name="skills">My skills 📦</a>
+## <a name="skills">Things I'm good at (skills) 📦</a>
 - 
 - 
 - 
@@ -69,7 +69,7 @@ For more, please see my [GitHub repo list](https://github.com/alexandrashelley?t
 - 
 - 
 
-## <a name="education">Education 🎓</a>
+## <a name="education">Things I've stuffed in my head 🎓</a>
 
 **University of Sussex** (2014 - 2017)  
 *English Language and Linguistics*

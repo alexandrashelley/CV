@@ -87,3 +87,4 @@ For more, please see my [GitHub repo list](https://github.com/alexandrashelley?t
 - 🎮 Repairing generators and reaching the final ring in the world of gaming 
 - 🎥 Watching films and immediately rating them on my letterboxd 
 - 🌱 Cooking plant-based goodness 
+- 🏊 Swimming (the only form of exercise I actually enjoy)

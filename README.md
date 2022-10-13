@@ -1,9 +1,9 @@
+<div align="center">
+
 ![For hire](img)
 ![Contactable](img)
 ![Status](img)
 ![Last updated](img)
-
-<div align="center">
 
 # Alexandra Shelley #
 (alexbshelley@gmail.com)
@@ -72,7 +72,7 @@ For more, please see my [GitHub repo list](https://github.com/alexandrashelley?t
 ## <a name="education">Education 🎓</a>
 
 **University of Sussex** (2014 - 2017)  
-*English language and Linguistics*
+*English Language and Linguistics*
 - 1st Class Honours
 - Recipient of the award for the "Highest-Ranking English Language and Linguistics Student"
 
@@ -83,7 +83,7 @@ For more, please see my [GitHub repo list](https://github.com/alexandrashelley?t
 - Philosophy: B
 ## <a name="interests">Things that bring me joy (interests) 🌞</a>
 
-- Drawing (it's my form of meditation!)
-- Losing myself in the world of gaming
-- Watching films and ticking them off my letterboxd
-- Cooking plant-based goodness
+- Drawing (it's my form of meditation! 🧘‍♀️)
+- Repairing generators and reaching the final ring in the world of gaming 🎮
+- Watching films and immediately rating them on my letterboxd 🎥
+- Cooking plant-based goodness 🌱

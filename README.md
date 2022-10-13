@@ -5,7 +5,8 @@
 
 <div align="center">
 
-# Alexandra Shelley (alexbshelley@gmail.com) #
+# Alexandra Shelley #
+(alexbshelley@gmail.com)
 
 [About me](#about_me) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [education](#education) | [Interests](#interests) 
 

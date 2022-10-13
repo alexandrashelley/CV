@@ -71,12 +71,12 @@ For more, please see my [GitHub repo list](https://github.com/alexandrashelley?t
 
 ## <a name="education">Education 🎓</a>
 
-**University of Sussex** (2014 - 2017)
+**University of Sussex** (2014 - 2017)  
 *English language and Linguistics*
 - 1st Class Honours
 - Recipient of the award for the "Highest-Ranking English Language and Linguistics Student"
 
-**BHASVIC** (2012 - 2014)
+**BHASVIC** (2012 - 2014)  
 *A-levels*
 - Sociology: A*
 - English Language: A

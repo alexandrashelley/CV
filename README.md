@@ -5,7 +5,7 @@
 ![Status](img)
 ![Last updated](img)
 
-# Alexandra Shelley #
+# Alexandra Shelley__#
 (alexbshelley@gmail.com)
 
 [About me](#about_me) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [education](#education) | [Interests](#interests) 

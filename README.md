@@ -51,23 +51,23 @@ For more, please see my [GitHub repo list](https://github.com/alexandrashelley?t
 
 **Twinkl** (April 2021 - April 2022)     
 *Digital Copywriter*  
-- 
-- 
+- I did this
+- and this
 
 **Downs View School** (September 2019 - August 2020)     
 *SEN Teaching Assistant*
-- 
-- 
+- I did this
+- and this
 
 **Oban International** (June 2018 - August 2019)  
 *Paid Media Analyst*
-- 
-- 
+- I did this
+- and this
 
 **Headway** (August 2017 - June 2018)  
 *Volunteer*
-- 
-- 
+- I did this
+- and this
 
 ## <a name="education">Things I've stuffed in my head (education) 🎓</a>
 

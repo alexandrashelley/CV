@@ -40,7 +40,7 @@ For more, please see my [GitHub repo list](https://github.com/alexandrashelley?t
 
 ## <a name="experience">Experience 💼</a>
 
-**Makers Academy** (June 2022 - October 2022)
+**Makers Academy** (June 2022 - October 2022)__
 *Software Developer Student*
 - Intensive 16-week coding bootcamp
 - **Agile principles**, stand-ups, retros, and sprint planning in **group projects**
@@ -49,22 +49,22 @@ For more, please see my [GitHub repo list](https://github.com/alexandrashelley?t
 - **Test-Driven Development** for better, stronger results
 - Dropping of **ego** to carry myself forward
 
-**Twinkl** (April 2021 - April 2022)    
+**Twinkl** (April 2021 - April 2022)__    
 *Digital Copywriter*  
 - 
 - 
 
-**Downs View School** (September 2019 - August 2020)   
+**Downs View School** (September 2019 - August 2020)__   
 *SEN Teaching Assistant*
 - 
 - 
 
-**Oban International** (June 2018 - August 2019)
+**Oban International** (June 2018 - August 2019)__
 *Paid Media Analyst*
 - 
 - 
 
-**Headway** (August 2017 - June 2018)
+**Headway** (August 2017 - June 2018)__
 *Volunteer*
 - 
 - 

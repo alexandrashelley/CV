@@ -83,7 +83,7 @@ For more, please see my [GitHub repo list](https://github.com/alexandrashelley?t
 - Philosophy: B
 ## <a name="interests">Things that bring me joy (interests) 🌞</a>
 
-- Drawing (it's my form of meditation! 🧘‍♀️)
-- Repairing generators and reaching the final ring in the world of gaming 🎮
-- Watching films and immediately rating them on my letterboxd 🎥
-- Cooking plant-based goodness 🌱
+- 🖍️ Drawing (it's my form of meditation! 🧘‍♀️)
+- 🎮 Repairing generators and reaching the final ring in the world of gaming 
+- 🎥 Watching films and immediately rating them on my letterboxd 
+- 🌱 Cooking plant-based goodness 

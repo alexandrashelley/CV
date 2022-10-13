@@ -25,7 +25,7 @@ Hi!
 
 ## <a name="projects">My workshed (projects) 👩🏻‍💻</a>
 
-| Project (Repo)                | Description                  | Time                           | Tech Stack / Tools             |
+| Project (Repo)                | Description                  | Time taken                     | Tech Stack / Tools             |
 | ----------------------------- | ---------------------------- | ------------------------------ | ------------------------------ |
 | [Travel-Lite](https://github.com/Curtis-Turk/Travel-lite) | A web app to encourage eco-conscious adventurers to make sustainable travel decisions. | 2 weeks | React, Tailwind, Cypress, Google API, Travel advisor API |
 | [Slugs-AceBook](https://github.com/naomischlosser/acebook-node-slugs)| A social media web app with a weirdly familiar name... | 2 weeks | Node, Express, MongoDB, Bootstrap, Cypress, Jest |

@@ -27,8 +27,8 @@ Hi!
 
 | Project (Repo)                | Description                  | Tech Stack / Tools             |
 | ----------------------------- | ---------------------------- | ------------------------------ |
-| [Travel-Lite](https://github.com/Curtis-Turk/Travel-lite) | Plan your adventure see more of the world, save the planet. A web app to encourage eco-conscious adventurers to make sustainable travel decisions | React, Tailwind, Cypress, Google API, Travel advisor API |
-| [Slugs-AceBook](https://github.com/naomischlosser/acebook-node-slugs)| A social media app with a weirdly familiar name... | Node, Express, MongoDB, Bootstrap, Cypress, Jest |
+| [Travel-Lite](https://github.com/Curtis-Turk/Travel-lite) | A web app to encourage eco-conscious adventurers to make sustainable travel decisions | React, Tailwind, Cypress, Google API, Travel advisor API |
+| [Slugs-AceBook](https://github.com/naomischlosser/acebook-node-slugs)| A social media web app with a weirdly familiar name... | Node, Express, MongoDB, Bootstrap, Cypress, Jest |
 | [Makers BnB](https://github.com/Curtis-Turk/makersbnb-ruby-seed) | An AirBnB-inspired web app. | Ruby, Sinatra, Rack, HTML, CSS, PreSql, Rspec |  
 
 For more, please see my [GitHub repo list](https://github.com/alexandrashelley?tab=repositories).
@@ -81,7 +81,7 @@ For more, please see my [GitHub repo list](https://github.com/alexandrashelley?t
 - Sociology: A*
 - English Language: A
 - Philosophy: B
-## <a name="interests">Things that bring me joy (interests)</a>
+## <a name="interests">Things that bring me joy (interests) 🌞</a>
 
 - Drawing (it's my form of meditation!)
 - Losing myself in the world of gaming

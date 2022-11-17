@@ -1,11 +1,6 @@
-<div align="center">
-
 # Alexandra Shelley  #
-(alexbshelley@gmail.com)
 
 [About me](#about_me) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) 
-
-</div>
 
 ## <a name="about_me">Hi!</a>
 

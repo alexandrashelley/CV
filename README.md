@@ -82,6 +82,6 @@ For more, please see my [GitHub repo list](https://github.com/alexandrashelley?t
 
 - 🖍️ Drawing (it's my form of meditation! 🧘‍♀️)
 - 🎮 Repairing generators and battling my way to the final ring in the many worlds of gaming 
-- 🎥 Watching films and **immediately** rating them on my (https://letterboxd.com/beyonce/ "letterboxd") 
+- 🎥 Watching films and **immediately** rating them on my [letterboxd](https://letterboxd.com/beyonce/)
 - 🌱 Cooking plant-based goodness 
 - 🏊 Swimming (the only exercise I actually enjoy)

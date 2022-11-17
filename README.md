@@ -26,7 +26,7 @@ For more, please see my [GitHub repo list](https://github.com/alexandrashelley?t
 - 
 - 
 
-## <a name="experience">Experience 💼</a>
+## <a name="experience">Experience</a>
 
 **Makers Academy** (June 2022 - October 2022)  
 *Software Developer Student*

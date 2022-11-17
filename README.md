@@ -1,7 +1,5 @@
 # Alexandra Shelley  #
 
-[About me](#about_me) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) 
-
 ## <a name="about_me">Hi!</a>
 
 I'm a creative software developer who has recently completed a 16-week intensive bootcamp with Makers Academy. 

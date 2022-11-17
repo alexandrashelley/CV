@@ -1,10 +1,5 @@
 <div align="center">
 
-![For hire](img)
-![Contactable](img)
-![Status](img)
-![Last updated](img)
-
 # Alexandra Shelley  #
 (alexbshelley@gmail.com)
 
@@ -12,18 +7,18 @@
 
 </div>
 
-## <a name="about_me">About me 👩🏻</a>
+## <a name="about_me">Hi!</a>
 
-Hi! 
+I'm a creative software developer who has recently completed a 16-week intensive bootcamp with Makers Academy. 
 
-## <a name="tech-stack">Tech and tools I've used 🤖</a> 
+## <a name="tech-stack">Tech and tools I've used</a> 
 - Git, GitHub
 - HTML, CSS (Tailwind)
 - JavaScript (React, Node.js, Express, MongoDB, Jest)
 - Ruby (Sinatra, RSpec)
 - SQL (PostgreSQL, TablePlus)
 
-## <a name="projects">Things I've made (projects) 👩🏻‍💻</a>
+## <a name="projects">Projects</a>
 
 | Project (Repo)                | Description                  | Time taken                     | Tech Stack / Tools             |
 | ----------------------------- | ---------------------------- | ------------------------------ | ------------------------------ |
@@ -33,7 +28,7 @@ Hi!
 
 For more, please see my [GitHub repo list](https://github.com/alexandrashelley?tab=repositories).
 
-## <a name="skills">Things I'm good at (skills) 📦</a>
+## <a name="skills">Skills</a>
 - 
 - 
 - 
@@ -51,25 +46,27 @@ For more, please see my [GitHub repo list](https://github.com/alexandrashelley?t
 
 **Twinkl** (April 2021 - April 2022)     
 *Digital Copywriter*  
-- I did this
-- and this
+- Writing SEO-optimised content including resource pages, topic pages, event pages and 'Twinkl Teaching Wikis' to rank highly on search engines.
+- Analysing the performance of my own work (with tools such as Google Analytics) to spot gaps for further optimisation opportunities.
+- Proposing a restructuring of the Northern Ireland site (categorising resources and content in-line with a more natural user flow), which myself and a colleague independently implemented and optimised.
+- Working closely with designers and illustrators to ideate new resources that captured high-ranking keywords in need of relevant content.
 
 **Downs View School** (September 2019 - August 2020)     
 *SEN Teaching Assistant*
-- I did this
-- and this
+- Looking after pupils’ physical, social, and emotional welfare.
+- Establishing positive relationships with pupils, acting as a role model and encouraging pupils to act independently when appropriate.
+- Encouraging pupils to engage in activities led by the teacher, as well as interact with their peers and other members of staff.
+- Supporting pupils with achieving and progressing in the curriculum and/or specialised therapy programmes (such as Speech and Language), and maintaining records for the teacher.
 
 **Oban International** (June 2018 - August 2019)  
 *Paid Media Analyst*
-- I did this
-- and this
+- Creating and implementing new paid media campaigns for clients, alongside managing existing paid media campaigns.
+- Researching keywords and identifying relevant audiences for campaigns.
+- Analysing the performance of paid media campaigns using conversion tracking data (e.g., from Google Analytics).
+- Reporting performance to clients in weekly, monthly, quarterly and annual review meetings.
+- A/B Testing such as ad copy/formats, keyword match types and audiences.
 
-**Headway** (August 2017 - June 2018)  
-*Volunteer*
-- I did this
-- and this
-
-## <a name="education">Things I've stuffed in my head (education) 🎓</a>
+## <a name="education">Education</a>
 
 **University of Sussex** (2014 - 2017)  
 *English Language and Linguistics*
@@ -81,10 +78,10 @@ For more, please see my [GitHub repo list](https://github.com/alexandrashelley?t
 - Sociology: A*
 - English Language: A
 - Philosophy: B
-## <a name="interests">Things that bring me joy (interests) 🌞</a>
+## <a name="interests">Interests</a>
 
 - 🖍️ Drawing (it's my form of meditation! 🧘‍♀️)
-- 🎮 Repairing generators and battling my way to the final ring in the world of gaming 
-- 🎥 Watching films and immediately rating them on my letterboxd 
+- 🎮 Repairing generators and battling my way to the final ring in the many worlds of gaming 
+- 🎥 Watching films and **immediately** rating them on my (https://letterboxd.com/beyonce/ "letterboxd") 
 - 🌱 Cooking plant-based goodness 
 - 🏊 Swimming (the only exercise I actually enjoy)

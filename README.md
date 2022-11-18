@@ -15,9 +15,9 @@ I'm a creative software developer who has recently completed a 16-week intensive
 
 | Project (Repo)                | Description                  | Time taken                     | Tech Stack / Tools             |
 | ----------------------------- | ---------------------------- | ------------------------------ | ------------------------------ |
-| [Travel-Lite](https://github.com/Curtis-Turk/Travel-lite) | A web app to encourage eco-conscious adventurers to make sustainable travel decisions. | 2 weeks | React, Tailwind, Cypress, Google API, Travel advisor API |
-| [Slugs-AceBook](https://github.com/naomischlosser/acebook-node-slugs)| A social media web app with a weirdly familiar name... | 2 weeks | Node, Express, MongoDB, Bootstrap, Cypress, Jest |
-| [Makers BnB](https://github.com/Curtis-Turk/makersbnb-ruby-seed) | An AirBnB-inspired web app. | 1 week | Ruby, Sinatra, Rack, HTML, CSS, PreSql, Rspec |  
+| [Travel-Lite](https://github.com/Curtis-Turk/Travel-lite) | A web app to encourage eco-conscious adventurers to make sustainable travel decisions. | 10 days | React, Tailwind, Cypress, Google API, Travel advisor API |
+| [Slugs-AceBook](https://github.com/naomischlosser/acebook-node-slugs)| A social media web app with a weirdly familiar name... | 10 days | Node, Express, MongoDB, Bootstrap, Cypress, Jest |
+| [Makers BnB](https://github.com/Curtis-Turk/makersbnb-ruby-seed) | An AirBnB-inspired web app. | 5 days | Ruby, Sinatra, Rack, HTML, CSS, PreSql, Rspec |  
 
 For more, please see my [GitHub repo list](https://github.com/alexandrashelley?tab=repositories).
 

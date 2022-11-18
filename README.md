@@ -22,9 +22,10 @@ I'm a creative software developer who has recently completed a 16-week intensive
 For more, please see my [GitHub repo list](https://github.com/alexandrashelley?tab=repositories).
 
 ## <a name="skills">Skills</a>
-- 
-- 
-- 
+- **Communication**
+- **Creative**
+- **Attention to detail**
+- **Adaptable**
 
 ## <a name="experience">Experience</a>
 

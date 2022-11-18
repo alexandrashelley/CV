@@ -30,12 +30,12 @@ For more, please see my [GitHub repo list](https://github.com/alexandrashelley?t
 
 **Makers Academy** (June 2022 - October 2022)  
 *Software Developer Student*
-- Intensive 16-week coding bootcamp
-- **Agile principles**, stand-ups, retros, and sprint planning in **group projects**
-- Working with different learning styles and communicators in **daily pair programming**
-- Breaking the program down into manageable, bite-sized problems with **Object-Oriented Programming**
-- **Test-Driven Development** for better, stronger results
-- Dropping of **ego** to carry myself forward
+- Intensive 16-week full-stack software development bootcamp.
+- Daily pair-programming to produce high-quality code that was borne out of shared knowledge, ideas and different learning styles.
+- Collaborating with others through agile principles, resulting in a stronger work-flow and project adaptability.
+- Building robust yet malleable code through the consistent practice of test-driven development.
+- Learning two languages from little to no prior proficiency (JavaScript and Ruby) propelled myself and my final project peers to learning React for our final project, in a timeframe of just 10 days.
+- Breaking down code into smaller problems through Object-Oriented Programming, allowing for easier troubleshooting.
 
 **Twinkl** (April 2021 - April 2022)     
 *Digital Copywriter*  
@@ -74,7 +74,7 @@ For more, please see my [GitHub repo list](https://github.com/alexandrashelley?t
 ## <a name="interests">Interests</a>
 
 - 🖍️ Drawing (it's my form of meditation! 🧘‍♀️)
-- 🎮 Repairing generators and battling my way to the final ring in the many worlds of gaming 
+- 🎮 Repairing generators and battling my way to the final ring
 - 🎥 Watching films and **immediately** rating them on my [letterboxd](https://letterboxd.com/beyonce/)
 - 🌱 Cooking plant-based goodness 
-- 🏊 Swimming (the only exercise I actually enjoy)
+- 🏊 Swimming

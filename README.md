@@ -26,9 +26,12 @@
 For more, please see my [GitHub repo list](https://github.com/alexandrashelley?tab=repositories).
 
 ## <a name="skills">Skills</a>
-- **Communication**
+- **Communication** - Communication - from reporting to clients from a variety of industries about the performance of their paid media campaigns, to writing captivating ad copy that created conversions, to, now, writing high-quality code that is both digestible and adaptable, I pride myself on being a strong communicator in many different areas.
+
 - **Creative**
+
 - **Attention to detail**
+
 - **Adaptable**
 
 ## <a name="experience">Experience</a>

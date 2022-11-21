@@ -2,7 +2,11 @@
 
 ## <a name="about_me">Hi!</a>
 
-I'm a creative software developer who has recently completed a 16-week intensive bootcamp with Makers Academy. 
+💻 I am a creative software developer who has recently completed a 16-week intensive bootcamp with Makers Academy. 
+
+💭 I was drawn to coding after a year of feeling my creativity stifled during lockdown. Having always had an interest in art and good design, I felt attracted to something that not only exercises my brain, but which I can manifest the wonderful ideas and visions I hold inside my head. 
+
+🌱 I am eager to continue this new journey I have thrown myself into, and am looking for a role where I can build on the skills I learnt at Makers, collaborate with others, and develop my craft in a supportive environment.
 
 ## <a name="tech-stack">Tech and tools I've used</a> 
 - Git, GitHub

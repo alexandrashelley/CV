@@ -2,11 +2,11 @@
 
 ## <a name="about_me">Hi!</a>
 
-💻 I am a creative software developer who has recently completed a 16-week intensive bootcamp with Makers Academy. 
+💻 My name's Alex and I am a creative software developer who has recently completed a 16-week intensive bootcamp with Makers Academy - a feat I will forever be immensely proud of as I started with no prior coding experience.
 
-💭 I was drawn to coding after a year of feeling my creativity stifled during lockdown. Having always had an interest in art and good design, I felt attracted to something that not only exercises my brain, but which I can manifest the wonderful ideas and visions I hold inside my head. 
+💭 I was drawn to coding after feeling my creativity stifled during lockdown. Having always had an interest in art and good design, I felt attracted to something that not only exercises my brain, but which provided an outlet for the wonderful ideas and visions I hold inside my head. My experience in a variety of roles over the years has helped me build many transferable skills: in building relationships, analysing performance, communicating with clients, putting users first, collaborating in a team, and more.
 
-🌱 I am eager to continue this new journey I have thrown myself into, and am looking for a role where I can build on the skills I learnt at Makers, collaborate with others, and develop my craft in a supportive environment.
+🌱 I am eager to continue this new journey I have propelled myself into, and am looking for a role where I can build on the skills I learnt at Makers, collaborate with others, and develop my craft in a supportive environment.
 
 ## <a name="tech-stack">Tech and tools I've used</a> 
 - Git, GitHub

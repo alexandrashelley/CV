@@ -10,7 +10,7 @@
 
 ## <a name="tech-stack">Tech and tools I've used</a> 
 - Git, GitHub
-- HTML, CSS (Tailwind)
+- HTML, CSS (Tailwind, Handlebars)
 - JavaScript (React, Node.js, Express, MongoDB, Jest)
 - Ruby (Sinatra, RSpec)
 - SQL (PostgreSQL, TablePlus)

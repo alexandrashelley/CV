@@ -4,7 +4,7 @@
 
 💻 My name's Alex and I am a creative software developer who has recently completed a 16-week intensive bootcamp with Makers Academy - a feat I will forever be immensely proud of as I started with no prior coding experience.
 
-💭 I was drawn to coding after feeling my creativity stifled during lockdown. Having always had an interest in art and good design, I felt attracted to something that not only exercises my brain, but which provided an outlet for the wonderful ideas and visions I hold inside my head. My experience in a variety of roles over the years has helped me build many transferable skills: in building relationships, analysing performance, communicating with clients, putting users first, collaborating in a team, and more.
+💭 I was drawn to coding after feeling my creativity stifled during lockdown. Having always had an interest in art and good design, I felt attracted to something that not only exercises my brain, but which provided an outlet for the wonderful ideas and visions I hold inside my head. My experience in a variety of roles over the years has helped me build many transferable skills: in building relationships, analysing performance, communicating with users and clients, collaborating in multi-disciplinary teams, and more.
 
 🌱 I am eager to continue this new journey I have propelled myself into, and am looking for a role where I can build on the skills I learnt at Makers, collaborate with others, and develop my craft in a supportive environment.
 

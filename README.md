@@ -28,9 +28,9 @@
 For more, please see my [GitHub repo list](https://github.com/alexandrashelley?tab=repositories).
 
 ## <a name="skills">Skills</a>
-- **Communication** - from reporting to clients from a variety of industries about the performance of their paid media campaigns, to writing captivating ad copy that created conversions, to, now, writing high-quality code that is both digestible and adaptable, I pride myself on being a strong communicator in many different areas.
+- **Communication** - from reporting to clients from a variety of industries about the performance of their paid media campaigns, to writing captivating ad copy that led to conversions, to, now, writing high-quality code that is both digestible and adaptable, I pride myself on being a strong communicator in both written and verbal spheres.
 
-- **Creative**
+- **Creative** - I have always been drawn to the creative side of any job or task I contribute to, and am better able to make sense of the world around me when I can break it down visually. As a Teaching Assistant working with children with special needs and complex learning difficulties, my creative thinking was imperative for thinking quickly on my feet and finding ways to support them throughout their day. Furthermore, I had to think outside of the box when ideating new resources for keyword gaps and drawing up plans for designers and illustrators to work from. I enjoy not only solving a coding problem, but considering how others will pick up my work, digest it, and be able to work with in their own iterations.
 
 - **Attention to detail**
 

@@ -42,7 +42,7 @@ For more, please see my [GitHub repo list](https://github.com/alexandrashelley?t
 - Daily pair-programming to produce high-quality code that was borne out of shared knowledge, ideas and different learning styles.
 - Collaborating with others through agile principles, resulting in a stronger work-flow and project adaptability.
 - Building robust yet malleable code through the consistent practice of test-driven development.
-- Learning two languages from little to no prior proficiency (JavaScript and Ruby) propelled myself and my final project peers to learning React for our final project, in a timeframe of just 10 days.
+- Learning two languages from with no prior proficiency (JavaScript and Ruby) and setting myself the challenge of learning React for my final project, in a timeframe of just 10 days.
 - Breaking down code into smaller problems through Object-Oriented Programming, allowing for easier troubleshooting.
 
 **Twinkl** (April 2021 - April 2022)     

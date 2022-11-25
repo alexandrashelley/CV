@@ -1,8 +1,10 @@
 <div align="center">
 
 <img src="alexicon.png" alt="me" width="250"/>
+
 # Alexandra Shelley  #
 </div>
+
 ## <a name="about_me">Hi!</a>
 
 💻 My name's Alex and I am a creative software developer who has recently completed a 16-week intensive bootcamp with Makers Academy - a feat I will forever be immensely proud of as I started with no prior coding experience.

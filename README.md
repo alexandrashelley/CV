@@ -45,34 +45,33 @@ For more, please see my [GitHub repo list](https://github.com/alexandrashelley?t
 
 **Makers Academy** (June 2022 - October 2022)  
 *Software Developer Student*
-- Intensive 16-week full-stack software development bootcamp.
-- Daily pair-programming to produce high-quality code that was borne out of shared knowledge, ideas and different learning styles.
-- Collaborating with others through agile principles, resulting in a stronger work-flow and project adaptability.
-- Building robust yet malleable code through the consistent practice of test-driven development.
-- Learning two languages from with no prior proficiency (JavaScript and Ruby) and setting myself the challenge of learning React for my final project, in a timeframe of just 10 days.
-- Breaking down code into smaller problems through Object-Oriented Programming, allowing for easier troubleshooting.
+- Participated in daily pair-programming to produce high-quality code that was borne out of shared knowledge and ideas, as well as different learning styles.
+- Collaborated with others through agile principles, which resulted in a stronger work-flow and project adaptability.
+- Built robust yet malleable code through the consistent practice of test-driven development.
+- Learnt two languages from no prior proficiency (JavaScript and Ruby) and set myself the challenge of learning React for my final project, in just 10 days.
+- Broke down code into smaller problems through Object-Oriented Programming, allowing for easier troubleshooting and task-management.
 
 **Twinkl** (April 2021 - April 2022)     
 *Digital Copywriter*  
-- Writing SEO-optimised content including resource pages, topic pages, event pages and 'Twinkl Teaching Wikis' to rank highly on search engines.
-- Analysing the performance of my own work (with tools such as Google Analytics) to spot gaps for further optimisation opportunities.
-- Proposing a restructuring of the Northern Ireland site (categorising resources and content in-line with a more natural user flow), which myself and a colleague independently implemented and optimised.
-- Working closely with designers and illustrators to ideate new resources that captured high-ranking keywords in need of relevant content.
+- Wrote SEO-optimised content including resource pages, topic pages, event pages and 'Twinkl Teaching Wikis' to rank highly on search engines.
+- Attention to detail was integral for analysing the performance of my own work (using tools such as Google Analytics) to spot gaps for further optimisation.
+- Demonstrated using my own initiative when I proposed a restructuring of the Northern Ireland site (categorising resources and content in-line with a more natural user flow), which myself and a colleague independently implemented and optimised.
+- Worked closely with designers and illustrators as part of a multi-disciplinary team to ideate new resources that captured high-ranking keywords.
 
 **Downs View School** (September 2019 - August 2020)     
 *SEN Teaching Assistant*
-- Looking after pupils’ physical, social, and emotional welfare.
-- Establishing positive relationships with pupils, acting as a role model and encouraging pupils to act independently when appropriate.
-- Encouraging pupils to engage in activities led by the teacher, as well as interact with their peers and other members of staff.
-- Supporting pupils with achieving and progressing in the curriculum and/or specialised therapy programmes (such as Speech and Language), and maintaining records for the teacher.
+- Looked after pupils’ physical, social, and emotional welfare - empathy was paramount.
+- Strong communication skills establishing positive relationships with pupils, acting as a role model and encouraging pupils to act independently when appropriate.
+- Encouraged pupils to engage in activities led by the teacher, as well as interact with their peers and other members of staff.
+- Supported pupils with the curriculum and/or specialised therapy programmes (such as Speech and Language), and maintaining records for the teacher.
 
 **Oban International** (June 2018 - August 2019)  
 *Paid Media Analyst*
-- Creating and implementing new paid media campaigns for clients, alongside managing existing paid media campaigns.
-- Researching keywords and identifying relevant audiences for campaigns.
-- Analysing the performance of paid media campaigns using conversion tracking data (e.g., from Google Analytics).
-- Reporting performance to clients in weekly, monthly, quarterly and annual review meetings.
-- A/B Testing such as ad copy/formats, keyword match types and audiences.
+- Created and implemented new paid media campaigns for clients (Legoland Japan, AXA Insurance, Mitsubishi, etc.), alongside managing existing paid media campaigns.
+- Strong research skills utilised from researching keywords and identifying relevant audiences for campaigns.
+- Practiced strong analytical skills when analysing the performance of paid media campaigns using conversion tracking data (e.g., from Google Analytics).
+- Reported performance to clients in weekly, monthly, quarterly and annual review meetings.
+- Implemented A/B Testing for ad copy, keyword match types, audiences, etc.
 
 ## <a name="education">Education</a>
 
